@@ -29,8 +29,6 @@ streamlit run weekdayFinder.py
 ## Folder Structure
 - 'weekdayFinder.py'  Contains the Streamlit application code.
 
-## Preview
-[Checkout Here](https://weekday-finder-anilkumar.streamlit.app/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
